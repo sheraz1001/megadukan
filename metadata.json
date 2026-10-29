@@ -1,0 +1,6 @@
+{
+  "name": "MegaDukan.com - Premium Electronics & Gadgets",
+  "description": "Premier e-commerce store for speakers, earbuds, smart gadgets, CCTV cameras, mobile and computer accessories with real-time automated inventory management and secure checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
